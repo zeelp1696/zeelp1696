@@ -1,5 +1,5 @@
 # Hello, I'm ZEEL
-<a href="www.linkedin.com/in/zeel-patel-037b8b275"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/zeel-patel-037b8b275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Motivated and detail-oriented Computer Engineering student with hands-on experience in front-end development, cybersecurity, and full-stack web technologies. Passionate about building secure, responsive web applications using tools like Node.js, Django, and modern JavaScript frameworks. Quick learner with a strong interest in ethical hacking and a commitment to continuous growth in both development and cybersecurity fields.
 
